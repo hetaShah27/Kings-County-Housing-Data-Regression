@@ -1,0 +1,2 @@
+# Kings-County-Housing-Data-Regression
+Summer is the best season in the real estate market and housing prices vary based on a number of features. Data from 2 such Summers is taken about the Kings County Housing Prices. Two Jupyter Notebooks depicting the various Regression models is used to depict how the number of bedrooms, waterfront location, total area in square feet, etc. affect the housing prices. Machine Learning with Python is used throughout the course of the project. Jupyter Notebooks give complete detail of implementation.
